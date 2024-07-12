@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416145211915",
+    "project_id": "ezbill-vision-c",
+    "storage_bucket": "ezbill-vision-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416145211915:android:af19a243a582c052fcbd0e",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416145211915-mn551hmg2p80dae4httssavdhq2tt1rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDj0NqEVnMj0AqyZxgL8ePYzK-y2lqQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416145211915-mn551hmg2p80dae4httssavdhq2tt1rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
