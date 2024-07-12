@@ -10,7 +10,7 @@ const admin = require("firebase-admin");
 // const express = require("express");
 // const {database} = require("firebase-admin");
 // const FieldValue = require("firebase-admin").firestore.FieldValue;
-const stripe = require("stripe")("sk_test_51LvzdiI0dSBEtrTkeaxy661nLcrPfMHaXD8r5ENI66eCPX4JsPPZGUsJ0YGTfYfpQFZxP2zQ3NolWGKADX5Jmmcp00Ghjubx7Z");
+const stripe = require("stripe")("_inputkey");
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
 // kill -9 $(lsof -t -i:8080) to kill the ports
